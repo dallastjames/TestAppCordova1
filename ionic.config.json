@@ -1,5 +1,7 @@
 {
   "name": "cordova-ac-latest",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
